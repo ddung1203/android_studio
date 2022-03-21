@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/subSize"
+        android:title="이미지 확대 2배" />
+
+    <item
+        android:id="@+id/originSize"
+        android:title="이미지 원래 크기" />
+</menu>
