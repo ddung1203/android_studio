@@ -1,4 +1,4 @@
-# Android Programming
+# Android Studio를 활용한 Android Programming
 
 
 1. 안드로이드 스마트폰의 환경과 구조 학습
